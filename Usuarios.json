@@ -46,5 +46,17 @@
         "key": "79atrochi",
         "expirydate": "09-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "12d6052d4cb8e7e8",
+        "key": "PRUEBA",
+        "expirydate": "09-11-2025",
+        "Allowoffline": false
     }
 ]
