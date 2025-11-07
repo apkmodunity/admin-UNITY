@@ -58,5 +58,17 @@
         "key": "PRUEBA",
         "expirydate": "09-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "42262779a0ab36c7",
+        "key": "FENIX",
+        "expirydate": "09-12-2025",
+        "Allowoffline": false
     }
 ]
