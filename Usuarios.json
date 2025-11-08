@@ -82,5 +82,17 @@
         "key": "NIÑO",
         "expirydate": "09-14-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "74206d8da8e9f5ed",
+        "key": "Jhoiner",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
