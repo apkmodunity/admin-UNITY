@@ -106,5 +106,17 @@
         "key": "Luis",
         "expirydate": "16-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a0f48e0ee72c921a",
+        "key": "Diego",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
