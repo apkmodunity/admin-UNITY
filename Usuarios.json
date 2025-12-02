@@ -190,5 +190,17 @@
         "key": "BLOODGRATIS1",
         "expirydate": "03-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7c91618efe4f0ac9",
+        "key": "BLOODGRATIS2",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false
     }
 ]
