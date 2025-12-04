@@ -226,5 +226,17 @@
         "key": "hhhh",
         "expirydate": "10-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "973d855ae040598e",
+        "key": "JoseG",
+        "expirydate": "5-12-2025",
+        "Allowoffline": false
     }
 ]
