@@ -298,5 +298,17 @@
         "key": "BLOOD_JUANMODZ",
         "expirydate": "12-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "804b488bbb5c207a",
+        "key": "UNITYMOD_YUNIEL",
+        "expirydate": "1-1-2026",
+        "Allowoffline": false
     }
 ]
