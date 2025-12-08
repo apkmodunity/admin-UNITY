@@ -106,6 +106,18 @@
         "key": "79atrochi",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "4bf4e8b81a28e074",
+        "key": "FREE_FABIO",
+        "expirydate": "18-12-2026",
+        "Allowoffline": false
     }
     
 ]
