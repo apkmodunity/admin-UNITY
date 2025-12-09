@@ -130,6 +130,18 @@
         "key": "BLOOD_STEVEN",
         "expirydate": "16-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a0f48e0ee72c921a",
+        "key": "BLOOD_DIEGO",
+        "expirydate": "14-12-2026",
+        "Allowoffline": false
     }
     
 ]
