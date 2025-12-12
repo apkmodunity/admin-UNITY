@@ -166,6 +166,18 @@
         "key": "FREE_ELMIO",
         "expirydate": "14-1-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9642160c0d80f30f",
+        "key": "BLOOD_DEIMER",
+        "expirydate": "18-1-2025",
+        "Allowoffline": false
     }
     
 ]
