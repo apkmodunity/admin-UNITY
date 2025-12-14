@@ -178,6 +178,18 @@
         "key": "BLOOD_DEIMER",
         "expirydate": "18-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f7bcdb45edf93dd2",
+        "key": "BLOOD_RAFITA",
+        "expirydate": "18-12-2025",
+        "Allowoffline": false
     }
     
 ]
