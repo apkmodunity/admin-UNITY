@@ -190,6 +190,18 @@
         "key": "BLOOD_RAFITAA",
         "expirydate": "18-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c76f35311f6815b5",
+        "key": "FREE_LOSBIT",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
     
 ]
