@@ -202,6 +202,18 @@
         "key": "FREE_LOSBIT",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a8efbf83e829949f",
+        "key": "BLOOD_LUISXT",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
     }
     
 ]
