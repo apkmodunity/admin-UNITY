@@ -250,6 +250,18 @@
         "key": "FREE_SUAREZ",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d6d3efc543cb39b4",
+        "key": "ANGELITO",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "@22",
+        "key": "ANGELITO1",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
     }
     
 ]
