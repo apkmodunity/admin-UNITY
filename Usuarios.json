@@ -10,5 +10,17 @@
         "key": "8e5fdde8c086d9ce",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "efd6d436adf1c639",
+        "key": "SAMUEL",
+        "expirydate": "31-12-2030",
+        "Allowoffline": false
     }
 ]
