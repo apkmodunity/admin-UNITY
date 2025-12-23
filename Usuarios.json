@@ -254,11 +254,11 @@
     {
         "device_id": "d6d3efc543cb39b4",
         "key": "ANGELITO",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "@22",
+        "device_id": "d6d3efc543cb39b4",
         "key": "ANGELITO1",
         "expirydate": "25-12-2026",
         "Allowoffline": false
