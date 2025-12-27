@@ -46,5 +46,17 @@
         "key": "BLOOD_ELVIS",
         "expirydate": "31-12-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "49d6e234407fa31c",
+        "key": "BLOOD_PROVEE",
+        "expirydate": "31-12-2030",
+        "Allowoffline": false
     }
 ]
